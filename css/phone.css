@@ -15,7 +15,8 @@
     padding-bottom: 20px;
 }
 #home::before{
-    height: 470px;
+    height: 545px;
+    position: absolute;
 }
 #home p{
     font-size: 0.99rem;
